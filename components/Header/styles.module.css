@@ -1,0 +1,3 @@
+.wrapper {
+    @apply bg-indigo-200 p-5 shadow-md
+}
